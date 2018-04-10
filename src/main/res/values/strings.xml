@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ElectronicMusicEventsPL</string>
+    <string name="nadchodz_ce_eventy">Nadchodzące eventy</string>
+    <string name="strona_wwww">Strona WWWW</string>
+    <string name="zobacz_na_mapie">Zobacz na mapie</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
